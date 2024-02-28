@@ -40,7 +40,7 @@ public class Main {
             } else {
                 System.out.println("Reservation: " + reservation);
 
-            }
+                }
         }
     }
 }

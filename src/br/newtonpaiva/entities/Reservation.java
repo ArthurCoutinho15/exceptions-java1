@@ -39,6 +39,7 @@ public class Reservation {
         this.checkOut = checkOut;
         return null;
 
+
     }
 
     public Integer getRoomNumber() {
